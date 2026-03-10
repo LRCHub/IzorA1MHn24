@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Downtown",
+  "base_artist": "Kep1er",
+  "createdAt": "2026-03-10T06:03:00.430990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Downtown",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/01_Downtown_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Downtown Baby",
+      "artist": "Caitlyn Smith",
+      "has_synced": true,
+      "path": "select/02_Downtown_Baby_Caitlyn_Smith.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stay Downtown",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/03_Stay_Downtown_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Good Ones (Downtown Session)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/04_The_Good_Ones_(Downtown_Session)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Upstairs Downtown",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/05_Upstairs_Downtown_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Upstairs Downtown (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/06_Upstairs_Downtown_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Downtown Dirt",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/07_Downtown_Dirt_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Uptight Downtown",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/08_Uptight_Downtown_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come On Baby Let's Go Downtown",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/09_Come_On_Baby_Let's_Go_Downtown_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Downtown Clown",
+      "artist": "Kim Appleby",
+      "has_synced": false,
+      "path": "select/10_Downtown_Clown_Kim_Appleby.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Downtown Samba (Remastered)",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/11_Downtown_Samba_(Remastered)_Yello.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hangin' Downtown",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/12_Hangin'_Downtown_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mony Mony - Downtown Mix / 24-Bit Digitally Remastered 2001",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/13_Mony_Mony_-_Downtown_Mix___24-Bit_Digitally_Remastered_2001_Billy_Idol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Downtown",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_Downtown_Kep1er.txt"
+    }
+  ]
+}
